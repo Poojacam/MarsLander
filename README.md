@@ -5,5 +5,5 @@
 with the supplied graphical visualization functions.
 3. Utilised control theory to program an autopilot function that led to the lander autonomously landing.
 
-I wrote the code in Lander.cpp
+I wrote the code in Lander.cpp.
 Lander.h and Lander.graphics were supplied code.
